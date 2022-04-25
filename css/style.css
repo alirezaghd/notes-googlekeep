@@ -1,0 +1,7 @@
+
+.stroke{
+ -webkit-text-stroke: 0.3px black ;
+    stroke: black ;
+    stroke-width: 0.5px;
+    ;
+}
